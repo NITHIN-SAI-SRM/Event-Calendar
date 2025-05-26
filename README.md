@@ -2,7 +2,8 @@
 ## Overview
 
 Event Calendar is a simple React-based web application that allows users to view and manage events on a calendar interface. The project uses React for the frontend and styles are applied using inline CSS for easy customization.
-LIVE LINK : https://event-calendar-nithin.vercel.app/
+
+## LIVE LINK : https://event-calendar-nithin.vercel.app/
 
 
 ## Features
